@@ -1,0 +1,87 @@
+
+townCenterSpriteSheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TownCenterSprite100
+  rotate: false
+  xy: 1, 645
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite50
+  rotate: false
+  xy: 1, 323
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite55
+  rotate: false
+  xy: 323, 645
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite60
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite65
+  rotate: false
+  xy: 323, 323
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite70
+  rotate: false
+  xy: 645, 645
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite75
+  rotate: false
+  xy: 323, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite80
+  rotate: false
+  xy: 645, 323
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite85
+  rotate: false
+  xy: 645, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+
+townCenterSpriteSheet2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TownCenterSprite90
+  rotate: false
+  xy: 1, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+TownCenterSprite95
+  rotate: false
+  xy: 323, 1
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
